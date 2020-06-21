@@ -91,3 +91,11 @@ img {
           transform: rotate(360deg);
 
 }
+
+a{
+  color: white;
+}
+
+a:hover{
+  color: orangered;
+}
